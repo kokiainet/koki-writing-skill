@@ -1,10 +1,10 @@
 # 文字创作 Skill
 
-[![English](https://img.shields.io/badge/English-2563EB?style=for-the-badge)](README.md) [![简体中文](https://img.shields.io/badge/简体中文-DC2626?style=for-the-badge)](README.zh-CN.md)
+[![English](https://img.shields.io/badge/English-2563EB?style=for-the-badge)](README.md) [![简体中文](https://img.shields.io/badge/简体中文-DC2626?style=for-the-badge)](README.zh-CN.md) [![日本語](https://img.shields.io/badge/日本語-7C3AED?style=for-the-badge)](README.ja.md)
 
 把口播和想法整理成保留自己语气的文章，补证据、找真实配图，用 Raphael 完成公众号排版。
 
-这是从我的日常创作流程整理出的独立 Skill，公开版已做脱敏并支持自定义。技能说明与流程参考提供英文和简体中文版本。
+这是从我的日常创作流程整理出的独立 Skill，公开版已做脱敏并支持自定义。技能说明与流程参考提供英文和简体中文版本，本介绍另有[日语版](README.ja.md)。
 
 ## 先看实际效果
 
@@ -35,7 +35,7 @@
 
 ```text
 $skill-installer 安装这个地址里的技能：
-https://github.com/leilei926524-tech/koki-writing-skill/tree/main/skills/koki-wechat-article
+https://github.com/kokiainet/koki-writing-skill/tree/main/skills/koki-wechat-article
 如果已有同名 Skill，先保留并说明冲突，不要直接覆盖。
 ```
 
@@ -94,8 +94,8 @@ https://github.com/leilei926524-tech/koki-writing-skill/tree/main/skills/koki-we
 
 ## 其他创作 Skill
 
-- [短视频创作 Skill](https://github.com/leilei926524-tech/koki-short-video-skill)
-- [长视频创作 Skill](https://github.com/leilei926524-tech/koki-long-video-skill)
+- [短视频创作 Skill](https://github.com/kokiainet/koki-short-video-skill)
+- [长视频创作 Skill](https://github.com/kokiainet/koki-long-video-skill)
 
 ## 开源许可
 
