@@ -1,10 +1,10 @@
 # Koki Writing Skill
 
-[![English](https://img.shields.io/badge/English-2563EB?style=for-the-badge)](README.md) [![简体中文](https://img.shields.io/badge/简体中文-DC2626?style=for-the-badge)](README.zh-CN.md)
+[![English](https://img.shields.io/badge/English-2563EB?style=for-the-badge)](README.md) [![简体中文](https://img.shields.io/badge/简体中文-DC2626?style=for-the-badge)](README.zh-CN.md) [![日本語](https://img.shields.io/badge/日本語-7C3AED?style=for-the-badge)](README.ja.md)
 
 Turn spoken ideas into articles that still sound like you, with evidence, real images, and WeChat-ready Raphael layouts.
 
-A standalone skill from my own creator workflow, shared as a configurable public edition. Instructions and workflow references are available in English and Simplified Chinese.
+A standalone skill from my own creator workflow, shared as a configurable public edition. Instructions and workflow references are available in English and Simplified Chinese. This introduction is also available in [Japanese](README.ja.md).
 
 ## See the result
 
@@ -34,7 +34,7 @@ Paste the following into Codex:
 
 ```text
 $skill-installer Install the skill from
-https://github.com/leilei926524-tech/koki-writing-skill/tree/main/skills/koki-wechat-article
+https://github.com/kokiainet/koki-writing-skill/tree/main/skills/koki-wechat-article
 Keep an existing skill with the same name and report a conflict before replacing it.
 ```
 
@@ -87,14 +87,14 @@ Use [Raphael Publish](https://publish.raphael.app/) or the included [local adapt
 
 Created by **Koki**, creator of Anti-Distill Skill and initiator of Social Coding.
 
-[Website](https://kokiai.net/) · [X / Twitter](https://x.com/kokisanai) · [Instagram](https://www.instagram.com/kokisanai/) · [YouTube](https://www.youtube.com/@kokiainet) · [LinkedIn](https://www.linkedin.com/in/koki-x-309815217/) · [Substack](https://kokimemo.substack.com/)
+[Website](https://kokiai.net/) · [X / Twitter](https://x.com/kokiainet) · [Instagram](https://www.instagram.com/kokiainet/) · [YouTube](https://www.youtube.com/@kokiainet) · [LinkedIn](https://www.linkedin.com/in/koki-x-309815217/) · [Substack](https://kokimemo.substack.com/)
 
-For collaborations or questions, message me on [X](https://x.com/kokisanai) or [LinkedIn](https://www.linkedin.com/in/koki-x-309815217/). For a skill bug or suggestion, open an issue in this repository. Please keep private media and account details out of public issues.
+For collaborations or questions, message me on [X](https://x.com/kokiainet) or [LinkedIn](https://www.linkedin.com/in/koki-x-309815217/). For a skill bug or suggestion, open an issue in this repository. Please keep private media and account details out of public issues.
 
 ## Other creator skills
 
-- [Koki Short Video Skill](https://github.com/leilei926524-tech/koki-short-video-skill)
-- [Koki Long Video Skill](https://github.com/leilei926524-tech/koki-long-video-skill)
+- [Koki Short Video Skill](https://github.com/kokiainet/koki-short-video-skill)
+- [Koki Long Video Skill](https://github.com/kokiainet/koki-long-video-skill)
 
 ## License
 
